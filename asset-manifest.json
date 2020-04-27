@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nasu-sensei/nikki/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nasu-sensei/nikki/static/js/main.0a273ff2.chunk.js",
+    "main.js.map": "/nasu-sensei/nikki/static/js/main.0a273ff2.chunk.js.map",
+    "runtime-main.js": "/nasu-sensei/nikki/static/js/runtime-main.e800602e.js",
+    "runtime-main.js.map": "/nasu-sensei/nikki/static/js/runtime-main.e800602e.js.map",
+    "static/js/2.a6d5f813.chunk.js": "/nasu-sensei/nikki/static/js/2.a6d5f813.chunk.js",
+    "static/js/2.a6d5f813.chunk.js.map": "/nasu-sensei/nikki/static/js/2.a6d5f813.chunk.js.map",
+    "index.html": "/nasu-sensei/nikki/index.html",
+    "precache-manifest.8bc518312d9b37464e96aedf88f40de5.js": "/nasu-sensei/nikki/precache-manifest.8bc518312d9b37464e96aedf88f40de5.js",
+    "service-worker.js": "/nasu-sensei/nikki/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nasu-sensei/nikki/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a6d5f813.chunk.js.LICENSE.txt": "/nasu-sensei/nikki/static/js/2.a6d5f813.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nasu-sensei/nikki/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e800602e.js",
+    "static/js/2.a6d5f813.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0a273ff2.chunk.js"
+  ]
+}
