@@ -24,7 +24,7 @@
     "predeploy" : "yarn run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://nasu-sensei.github.io/nikki",
+  "homepage": "https://1e0nhard.github.io/nikki",
   "eslintConfig": {
     "extends": "react-app"
   },
