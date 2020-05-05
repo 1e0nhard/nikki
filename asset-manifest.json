@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nikki/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nikki/static/js/main.7fa0a34e.chunk.js",
+    "main.js.map": "/nikki/static/js/main.7fa0a34e.chunk.js.map",
+    "runtime-main.js": "/nikki/static/js/runtime-main.143336b5.js",
+    "runtime-main.js.map": "/nikki/static/js/runtime-main.143336b5.js.map",
+    "static/js/2.a6d5f813.chunk.js": "/nikki/static/js/2.a6d5f813.chunk.js",
+    "static/js/2.a6d5f813.chunk.js.map": "/nikki/static/js/2.a6d5f813.chunk.js.map",
+    "index.html": "/nikki/index.html",
+    "precache-manifest.8fb22d8729ae2af777153714473b34ee.js": "/nikki/precache-manifest.8fb22d8729ae2af777153714473b34ee.js",
+    "service-worker.js": "/nikki/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nikki/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a6d5f813.chunk.js.LICENSE.txt": "/nikki/static/js/2.a6d5f813.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nikki/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.143336b5.js",
+    "static/js/2.a6d5f813.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7fa0a34e.chunk.js"
+  ]
+}
