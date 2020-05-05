@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy" : "yarn run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "PUBLIC_URL=/ gh-pages -d build"
   },
   "homepage": "https://1e0nhard.github.io/nikki",
   "eslintConfig": {
